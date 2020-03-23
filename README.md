@@ -25,3 +25,4 @@ As part of [NUS DSC's Hack For Good 2020](https://dsc.comp.nus.edu.sg/hackforgoo
 ## Credits
 - [Mary Heng](https://github.com/maryheng)
 - [Bing Quan](https://github.com/chuabingquan)
+- Forked by Paul Subzak 
